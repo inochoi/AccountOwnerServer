@@ -1,0 +1,16 @@
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csprojAssemblyReference.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfoInputs.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.AssemblyInfo.cs
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.deps.json
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\LoggerService.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.csproj.CopyComplete
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp2.2\LoggerService.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml

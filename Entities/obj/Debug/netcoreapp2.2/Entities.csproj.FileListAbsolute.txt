@@ -1,0 +1,12 @@
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CopyComplete
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Entities\obj\Debug\netcoreapp2.2\Entities.pdb

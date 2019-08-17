@@ -1,0 +1,14 @@
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.deps.json
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csprojAssemblyReference.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfoInputs.cache
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfo.cs
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CopyComplete

@@ -1,0 +1,7 @@
+2019-08-15 11:18:05.5547 INFO Here is info message from our values controller.
+2019-08-15 11:18:05.6714 DEBUG Here is debug message from our values controller.
+2019-08-15 11:18:05.6928 WARN Here is warn message from our values controller.
+2019-08-15 11:18:05.7063 ERROR Here is error message from our values controller.
+2019-08-15 17:34:58.0645 INFO Returned all owners from database.
+2019-08-15 17:35:05.8198 INFO Returned all owners from database.
+2019-08-15 17:40:10.5681 INFO Returned all owners from database.
