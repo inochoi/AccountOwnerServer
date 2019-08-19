@@ -21,3 +21,26 @@ C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\AccountOwnerSer
 C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.dll
 C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.pdb
 C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.deps.json
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.json
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.runtimeconfig.dev.json
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\AccountOwnerServer.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\LoggerService.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\LoggerService.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csprojAssemblyReference.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CoreCompileInputs.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorAssemblyInfo.cs
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfoInputs.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.AssemblyInfo.cs
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.RazorTargetAssemblyInfo.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.csproj.CopyComplete
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\AccountOwnerServer\obj\Debug\netcoreapp2.2\AccountOwnerServer.pdb

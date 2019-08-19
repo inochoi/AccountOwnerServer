@@ -3006,11 +3006,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Repository\\Repository.csproj",
+      "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\Ino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Repository\\obj\\",
+      "outputPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3029,11 +3029,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+            "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\Entities.csproj"
+            "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj"
             }
           }
         }

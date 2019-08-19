@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\Ino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

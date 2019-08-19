@@ -12,3 +12,17 @@ C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Repository\bin\
 C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
 C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.dll
 C:\Users\Ino\Documents\GitHub\ASP.NET Project\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Repository.deps.json
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Repository.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Entities.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csprojAssemblyReference.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfoInputs.cache
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.AssemblyInfo.cs
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.csproj.CopyComplete
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.dll
+C:\Users\Ino\Source\Repos\inochoi\AccountOwnerServer\Repository\obj\Debug\netcoreapp2.2\Repository.pdb

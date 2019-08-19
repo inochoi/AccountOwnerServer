@@ -12312,11 +12312,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+      "projectUniqueName": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
       "projectName": "AccountOwnerServer",
-      "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
+      "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\AccountOwnerServer\\AccountOwnerServer.csproj",
       "packagesPath": "C:\\Users\\Ino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
+      "outputPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\AccountOwnerServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12335,14 +12335,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Entities\\Entities.csproj"
+            "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Ino\\Documents\\GitHub\\ASP.NET Project\\AccountOwnerServer\\Repository\\Repository.csproj"
+            "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Repository\\Repository.csproj"
             }
           }
         }
