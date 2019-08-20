@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\AccountOwnerServer\\Controllers",
-    "\\AccountOwnerServer\\Extensions",
-    "\\AccountOwnerServer\\Properties",
-    "\\Entities\\ExtendedModels",
-    "\\Entities\\Extensions",
-    "\\Entities\\Models"
+    ""
   ],
   "SelectedNode": "\\AccountOwnerServer.sln",
   "PreviewInSolutionExplorer": false
