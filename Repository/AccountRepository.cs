@@ -38,7 +38,17 @@ namespace Repository
             return FindByCondition(a => a.OwnerId.Equals(ownerId));
         }
 
-
+        public async Task<AccountExtended> GetAccountWithDetailsAsync(Guid accountId)
+        {
+            return await FindByCondition(a => a.Id.Equals(accountId))
+                .Select(account => new AccountExtended(account)
+                {
+                    Owners = RepositoryContext.Owners
+                    .Where(o => o.Id.Equals(account.OwnerId))
+                    .ToList()
+                })
+                .SingleOrDefaultAsync();
+        }
 
         public async Task CreateAccountAsync(Account account)
         {

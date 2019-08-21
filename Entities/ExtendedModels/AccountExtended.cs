@@ -13,7 +13,7 @@ namespace Entities.ExtendedModels
 
         public Guid OwnerId { get; set; }
 
-        // public IEnumerable<Account> Accounts { get; set; }
+        public IEnumerable<Owner> Owners { get; set; }
 
         public AccountExtended()
         {
