@@ -11,9 +11,9 @@ if you haven't on your system.
 1. Use accountowner.sql to create MySQL database.
 2. Use accountowner-init.sql to populate database.
 3. Open project with Visual Studio.
-4. In AccountOwnerServer/AccountOwnerServer/appsettings.json, set the connection string to your database.__
+4. In AccountOwnerServer/AccountOwnerServer/appsettings.json, set the connection string to your database.<br />
 (**NOTE:** Make sure these file paths are correct for your application.)
-5. In AccountOwnerServer/AccountOwnerServer/nlog.config, set internalLogFile and fileName to your own file paths.__
+5. In AccountOwnerServer/AccountOwnerServer/nlog.config, set internalLogFile and fileName to your own file paths.<br />
 (**NOTE:** Make sure these file paths are correct for your application.)
 6. Run server.
 
