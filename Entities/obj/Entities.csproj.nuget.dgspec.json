@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj": {}
+    "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj": {
+    "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj",
+        "projectUniqueName": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj",
+        "projectPath": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Ino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Entities\\obj\\",
+        "outputPath": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,12 @@
 # AccountServerAPI
+
+## Prerequisites
+Download [mysql](https://dev.mysql.com/downloads/mysql/) 
+[(setup mysql)](https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing), 
+[sample database](https://dev.mysql.com/doc/employee/en/employees-installation.html),
+[database init]() -
+if you haven't on your system.
+
 ## Installation
 1. Use accountowner.sql to create MySQL database.
 2. Use accountowner-init.sql to populate database.

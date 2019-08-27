@@ -1086,11 +1086,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
+      "projectPath": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\Ino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\LoggerService\\obj\\",
+      "outputPath": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1109,8 +1109,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\Ino\\Source\\Repos\\inochoi\\AccountOwnerServer\\Contracts\\Contracts.csproj"
+            "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Contracts\\Contracts.csproj": {
+              "projectPath": "c:\\Users\\Ino\\source\\repos\\inochoi\\AccountOwnerServer\\Contracts\\Contracts.csproj"
             }
           }
         }
