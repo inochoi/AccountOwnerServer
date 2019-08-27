@@ -6,4 +6,4 @@
 4. In AccountOwnerServer/AccountOwnerServer/nlog.config, set internalLogFile and fileName to your own file paths. (**STUDENTS:** Make sure these file paths are correct for your application. Remove your file paths from this file before uploading)
 5. Run server.
 
-The front-end application is in my **[`AccountOwnerClient`]("https://github.com/inochoi/AccountOwnerClient")** repository.
+The front-end application is in my **[`AccountOwnerClient`](https://github.com/inochoi/AccountOwnerClient)** repository.
