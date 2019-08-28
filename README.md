@@ -34,6 +34,5 @@ if you haven't on your system.
 | PUT       | /api/account/:id                 | Replace existing account information with new one      |
 | DELETE    | /api/owner/:id                   | Deletes owner by id                                    |
 | DELETE    | /api/account/:id                 | Deletes account by id                                  |
-|-----------|----------------------------------|--------------------------------------------------------- 
 
 The front-end application is in my **[`AccountOwnerClient`](https://github.com/inochoi/AccountOwnerClient)** repository.
